@@ -1,6 +1,6 @@
 body {
   
-  background-image: linear-gradient( rgb(191, 191, 191), rgb(64, 64, 64));
+  background-image: linear-gradient( rgb(102, 102, 102), rgb(38, 38, 38));
   margin: 0px;
   font-family: Copperplate, Papyrus, fantasy;
 }
@@ -91,4 +91,33 @@ a:-webkit-any-link {
     cursor: pointer;
     text-decoration: underline;
 }
+
+#Button {
+Height: 30px;
+Width: 180px;
+background-color: #b3b3ff;
+font-family: Copperplate, Papyrus, fantasy;
+font-size: 18px;
+color: #FFFFFF;
+}
+
+#Button:hover {
+background-color: #808080;
+font-family: Copperplate, Papyrus, fantasy;
+}
+
+#emojis{
+Height: 30px;
+Width: 50px;
+background-color: #b3b3ff;
+font-size: 18px;
+color: #FFFFFF;
+}
+
+#Button:hover {
+background-color: #808080;
+font-family: Copperplate, Papyrus, fantasy;
+}
+
+
 
